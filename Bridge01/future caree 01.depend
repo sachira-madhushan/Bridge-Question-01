@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1645118187 source:h:\c++ projects\future caree 01\main.cpp
+	<iostream>
+	<fstream>
+	<unordered_set>
+	<list>
+	<map>
+
